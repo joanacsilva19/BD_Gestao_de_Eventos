@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\My_Files\\FormsProjeto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87C7F1E3-2F32-70AF-E447-921E3C36000D}|FormsProjeto\\FormsProjeto.csproj|c:\\my_files\\formsprojeto\\formsprojeto\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C7F1E3-2F32-70AF-E447-921E3C36000D}|FormsProjeto\\FormsProjeto.csproj|solutionrelative:formsprojeto\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C7F1E3-2F32-70AF-E447-921E3C36000D}|FormsProjeto\\FormsProjeto.csproj|c:\\my_files\\formsprojeto\\formsprojeto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C7F1E3-2F32-70AF-E447-921E3C36000D}|FormsProjeto\\FormsProjeto.csproj|solutionrelative:formsprojeto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C7F1E3-2F32-70AF-E447-921E3C36000D}|FormsProjeto\\FormsProjeto.csproj|c:\\my_files\\formsprojeto\\formsprojeto\\formatividade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C7F1E3-2F32-70AF-E447-921E3C36000D}|FormsProjeto\\FormsProjeto.csproj|solutionrelative:formsprojeto\\formatividade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C7F1E3-2F32-70AF-E447-921E3C36000D}|FormsProjeto\\FormsProjeto.csproj|c:\\my_files\\formsprojeto\\formsprojeto\\novoevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C7F1E3-2F32-70AF-E447-921E3C36000D}|FormsProjeto\\FormsProjeto.csproj|solutionrelative:formsprojeto\\novoevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C7F1E3-2F32-70AF-E447-921E3C36000D}|FormsProjeto\\FormsProjeto.csproj|c:\\my_files\\formsprojeto\\formsprojeto\\formeventos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C7F1E3-2F32-70AF-E447-921E3C36000D}|FormsProjeto\\FormsProjeto.csproj|solutionrelative:formsprojeto\\formeventos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C7F1E3-2F32-70AF-E447-921E3C36000D}|FormsProjeto\\FormsProjeto.csproj|c:\\my_files\\formsprojeto\\formsprojeto\\formeventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C7F1E3-2F32-70AF-E447-921E3C36000D}|FormsProjeto\\FormsProjeto.csproj|solutionrelative:formsprojeto\\formeventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C7F1E3-2F32-70AF-E447-921E3C36000D}|FormsProjeto\\FormsProjeto.csproj|C:\\My_Files\\FormsProjeto\\formsprojeto\\formeventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87C7F1E3-2F32-70AF-E447-921E3C36000D}|FormsProjeto\\FormsProjeto.csproj|solutionrelative:formsprojeto\\formeventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EDE787A-8532-4C53-9046-164F992F4649}|FormsProjeto\\FormsProjeto.csproj|C:\\My_Files\\FormsProjeto\\formsprojeto\\formeventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EDE787A-8532-4C53-9046-164F992F4649}|FormsProjeto\\FormsProjeto.csproj|solutionrelative:formsprojeto\\formeventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C7F1E3-2F32-70AF-E447-921E3C36000D}|FormsProjeto\\FormsProjeto.csproj|c:\\my_files\\formsprojeto\\formsprojeto\\formdetalhesevento.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C7F1E3-2F32-70AF-E447-921E3C36000D}|FormsProjeto\\FormsProjeto.csproj|solutionrelative:formsprojeto\\formdetalhesevento.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87C7F1E3-2F32-70AF-E447-921E3C36000D}|FormsProjeto\\FormsProjeto.csproj|c:\\my_files\\formsprojeto\\formsprojeto\\formdetalhesevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87C7F1E3-2F32-70AF-E447-921E3C36000D}|FormsProjeto\\FormsProjeto.csproj|solutionrelative:formsprojeto\\formdetalhesevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EDE787A-8532-4C53-9046-164F992F4649}|FormsProjeto\\FormsProjeto.csproj|C:\\My_Files\\FormsProjeto\\formsprojeto\\formdetalhesevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EDE787A-8532-4C53-9046-164F992F4649}|FormsProjeto\\FormsProjeto.csproj|solutionrelative:formsprojeto\\formdetalhesevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EDE787A-8532-4C53-9046-164F992F4649}|FormsProjeto\\FormsProjeto.csproj|C:\\My_Files\\FormsProjeto\\formsprojeto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EDE787A-8532-4C53-9046-164F992F4649}|FormsProjeto\\FormsProjeto.csproj|solutionrelative:formsprojeto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EDE787A-8532-4C53-9046-164F992F4649}|FormsProjeto\\FormsProjeto.csproj|C:\\My_Files\\FormsProjeto\\formsprojeto\\formatividade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EDE787A-8532-4C53-9046-164F992F4649}|FormsProjeto\\FormsProjeto.csproj|solutionrelative:formsprojeto\\formatividade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormDetalhesEvento.Designer.cs",
+              "DocumentMoniker": "C:\\My_Files\\FormsProjeto\\FormsProjeto\\FormDetalhesEvento.Designer.cs",
+              "RelativeDocumentMoniker": "FormsProjeto\\FormDetalhesEvento.Designer.cs",
+              "ToolTip": "C:\\My_Files\\FormsProjeto\\FormsProjeto\\FormDetalhesEvento.Designer.cs",
+              "RelativeToolTip": "FormsProjeto\\FormDetalhesEvento.Designer.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T23:33:51.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormDetalhesEvento.cs",
+              "DocumentMoniker": "C:\\My_Files\\FormsProjeto\\FormsProjeto\\FormDetalhesEvento.cs",
+              "RelativeDocumentMoniker": "FormsProjeto\\FormDetalhesEvento.cs",
+              "ToolTip": "C:\\My_Files\\FormsProjeto\\FormsProjeto\\FormDetalhesEvento.cs",
+              "RelativeToolTip": "FormsProjeto\\FormDetalhesEvento.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAwwAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T23:06:14.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormAtividade.cs",
+              "DocumentMoniker": "C:\\My_Files\\FormsProjeto\\FormsProjeto\\FormAtividade.cs",
+              "RelativeDocumentMoniker": "FormsProjeto\\FormAtividade.cs",
+              "ToolTip": "C:\\My_Files\\FormsProjeto\\FormsProjeto\\FormAtividade.cs",
+              "RelativeToolTip": "FormsProjeto\\FormAtividade.cs",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAqwO4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T19:35:26.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormEventos.cs [Design]",
+              "DocumentMoniker": "C:\\My_Files\\FormsProjeto\\FormsProjeto\\FormEventos.cs",
+              "RelativeDocumentMoniker": "FormsProjeto\\FormEventos.cs",
+              "ToolTip": "C:\\My_Files\\FormsProjeto\\FormsProjeto\\FormEventos.cs [Design]",
+              "RelativeToolTip": "FormsProjeto\\FormEventos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T00:59:02.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\My_Files\\FormsProjeto\\FormsProjeto\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "FormsProjeto\\Form1.Designer.cs",
+              "ToolTip": "C:\\My_Files\\FormsProjeto\\FormsProjeto\\Form1.Designer.cs",
+              "RelativeToolTip": "FormsProjeto\\Form1.Designer.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAkwJMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T23:32:03.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\My_Files\\FormsProjeto\\FormsProjeto\\Form1.cs",
+              "RelativeDocumentMoniker": "FormsProjeto\\Form1.cs",
+              "ToolTip": "C:\\My_Files\\FormsProjeto\\FormsProjeto\\Form1.cs",
+              "RelativeToolTip": "FormsProjeto\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T23:28:44.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormEventos.cs [Design]",
+              "DocumentMoniker": "C:\\My_Files\\FormsProjeto\\FormsProjeto\\FormEventos.cs",
+              "RelativeDocumentMoniker": "FormsProjeto\\FormEventos.cs",
+              "ToolTip": "C:\\My_Files\\FormsProjeto\\FormsProjeto\\FormEventos.cs [Design]",
+              "RelativeToolTip": "FormsProjeto\\FormEventos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T23:33:57.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormEventos.cs",
+              "DocumentMoniker": "C:\\My_Files\\FormsProjeto\\FormsProjeto\\FormEventos.cs",
+              "RelativeDocumentMoniker": "FormsProjeto\\FormEventos.cs",
+              "ToolTip": "C:\\My_Files\\FormsProjeto\\FormsProjeto\\FormEventos.cs",
+              "RelativeToolTip": "FormsProjeto\\FormEventos.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAAwAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T01:00:49.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormEventos.Designer.cs",
+              "DocumentMoniker": "C:\\My_Files\\FormsProjeto\\FormsProjeto\\FormEventos.Designer.cs",
+              "RelativeDocumentMoniker": "FormsProjeto\\FormEventos.Designer.cs",
+              "ToolTip": "C:\\My_Files\\FormsProjeto\\FormsProjeto\\FormEventos.Designer.cs",
+              "RelativeToolTip": "FormsProjeto\\FormEventos.Designer.cs",
+              "ViewState": "AgIAANUAAAAAAAAAAAAowK8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T20:06:49.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NovoEvento.cs",
+              "DocumentMoniker": "C:\\My_Files\\FormsProjeto\\FormsProjeto\\NovoEvento.cs",
+              "RelativeDocumentMoniker": "FormsProjeto\\NovoEvento.cs",
+              "ToolTip": "C:\\My_Files\\FormsProjeto\\FormsProjeto\\NovoEvento.cs",
+              "RelativeToolTip": "FormsProjeto\\NovoEvento.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAgwAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T21:22:22.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\My_Files\\FormsProjeto\\FormsProjeto\\Form1.cs",
+              "RelativeDocumentMoniker": "FormsProjeto\\Form1.cs",
+              "ToolTip": "C:\\My_Files\\FormsProjeto\\FormsProjeto\\Form1.cs [Design]",
+              "RelativeToolTip": "FormsProjeto\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T23:34:55.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormDetalhesEvento.cs [Design]",
+              "DocumentMoniker": "C:\\My_Files\\FormsProjeto\\FormsProjeto\\FormDetalhesEvento.cs",
+              "RelativeDocumentMoniker": "FormsProjeto\\FormDetalhesEvento.cs",
+              "ToolTip": "C:\\My_Files\\FormsProjeto\\FormsProjeto\\FormDetalhesEvento.cs [Design]",
+              "RelativeToolTip": "FormsProjeto\\FormDetalhesEvento.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T23:05:59.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormAtividade.cs [Design]",
+              "DocumentMoniker": "C:\\My_Files\\FormsProjeto\\FormsProjeto\\FormAtividade.cs",
+              "RelativeDocumentMoniker": "FormsProjeto\\FormAtividade.cs",
+              "ToolTip": "C:\\My_Files\\FormsProjeto\\FormsProjeto\\FormAtividade.cs [Design]",
+              "RelativeToolTip": "FormsProjeto\\FormAtividade.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T01:33:12.92Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
